@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/xeon-zolt/ceon-zolt/master/README.md",
+  "title": "Xeon Zolt",
+  "name": "Xeon Zolt",
+  "ascii": "xeonzolt",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "xeon-zolt",
+    "linkedin": "harsh-lathwal"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "xeon.harsh@gmail.com",
+  "ps1_hostname": "xeonzolt",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "repo": "https://github.com/xeon-zolt",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/xeonzolt",
+    "patreon": "https://patreon.com/"
   },
   "colors": {
     "light": {
